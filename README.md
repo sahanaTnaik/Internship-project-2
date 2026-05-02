@@ -40,7 +40,9 @@ The dataset includes information about shooting incidents such as:
 - Logistic Regression
 - Decision Tree
 - Random Forest
+- Gradient Boosting
 - Support Vector Machine (SVM)
+- XGboost
 - K-Nearest Neighbors (KNN)
 
 ---
